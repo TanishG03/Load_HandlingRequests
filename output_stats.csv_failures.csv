@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+GET,/posts/1,RemoteDisconnected('Remote end closed connection without response'),1
+GET,/albums,RemoteDisconnected('Remote end closed connection without response'),1
+GET,/posts/2,RemoteDisconnected('Remote end closed connection without response'),1
